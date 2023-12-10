@@ -1,3 +1,1 @@
-intall wandb
-!wandb login
-upgrade pip in python if its not working
+wandb
