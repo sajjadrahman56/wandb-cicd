@@ -1,1 +1,2 @@
-this repo contain ci cd for ml courses 
+# ML CI CD
+this repo contains ci cd for ml courses 
